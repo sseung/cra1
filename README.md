@@ -19,3 +19,5 @@ int main() {
   return 0;
 }
 ```
+
+<img width="1024" height="683" alt="image" src="https://github.com/user-attachments/assets/f85b9582-5152-4946-8584-7c218bd72230" />
